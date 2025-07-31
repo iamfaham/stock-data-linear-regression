@@ -1,1 +1,1 @@
-# stock-data-linear-regression
+# stock-data-ridge-regression
